@@ -943,6 +943,8 @@ class Match implements Taskable {
 			try {
 				$this->rcon = new Rcon($ip[0], $ip[1], $this->rconPassword);
 				$this->rcon->send("echo eBot;");
+				//TODO : Maybe uncomment ?
+				
 				// $this->rcon->send("changelevel ".$this->currentMap->getMapName());
 			} catch (\Exception $ex) {
 				Logger::error("Reinit rcon failed - " . $ex->getMessage());
