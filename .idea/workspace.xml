@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0b2ad97-6b77-428a-b6d0-4b813fe3dcfe" name="Default" comment="" />
+    <ignored path="eBot-CSGO.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="eBot-CSGO" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="PluginMatchScoreNotifier.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/eBot/Plugins/Custom/PluginMatchScoreNotifier.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4197349">
+              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+              <folding>
+                <element signature="e#7#254#0#PHP" expanded="true" />
+                <element signature="e#288#312#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/eBot/Plugins/Custom/PluginMatchScoreNotifier.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot-CSGO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot-CSGO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot-CSGO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot-CSGO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot-CSGO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot-CSGO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot-CSGO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot-CSGO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot-CSGO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Official" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot-CSGO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot-CSGO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Custom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot-CSGO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot-CSGO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot-CSGO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot-CSGO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Events" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot-CSGO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot-CSGO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Events" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Event" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot-CSGO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eBot-CSGO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="web.server" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/eBot/Plugins/Custom" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0b2ad97-6b77-428a-b6d0-4b813fe3dcfe" name="Default" comment="" />
+      <created>1455933456849</created>
+      <option name="number" value="Default" />
+      <updated>1455933456849</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13327949" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3409802">
+          <caret line="340" column="9" selection-start-line="340" selection-start-column="9" selection-end-line="340" selection-end-column="9" />
+          <folding>
+            <marker date="1452216986000" expanded="true" signature="48:220" placeholder=" Gets the version of the current Zend engine ..." />
+            <marker date="1452216986000" expanded="true" signature="255:493" placeholder=" Returns the number of arguments passed to the function ..." />
+            <marker date="1452216986000" expanded="true" signature="529:833" placeholder=" Return an item from the argument list ..." />
+            <marker date="1452216986000" expanded="true" signature="876:1168" placeholder=" Returns an array comprising a function's argument list ..." />
+            <marker date="1452216986000" expanded="true" signature="1204:1486" placeholder=" Get string length ..." />
+            <marker date="1452216986000" expanded="true" signature="1522:1900" placeholder=" Binary safe string comparison ..." />
+            <marker date="1452216986000" expanded="true" signature="1941:2427" placeholder=" Binary safe string comparison of the first n characters ..." />
+            <marker date="1452216986000" expanded="true" signature="2475:2872" placeholder=" Binary safe case-insensitive string comparison ..." />
+            <marker date="1452216986000" expanded="true" signature="2917:3428" placeholder=" Binary safe case-insensitive string comparison of the first n characters ..." />
+            <marker date="1452216986000" expanded="true" signature="3480:4107" placeholder=" Return the current key and value pair from an array and advance the array cursor ..." />
+            <marker date="1452216986000" expanded="true" signature="4147:6302" placeholder=" Sets which PHP errors are reported ..." />
+            <marker date="1452216986000" expanded="true" signature="6353:7176" placeholder=" Defines a named constant ..." />
+            <marker date="1452216986000" expanded="true" signature="7245:7537" placeholder=" Checks whether a given named constant exists ..." />
+            <marker date="1452216986000" expanded="true" signature="7572:8066" placeholder=" Returns the name of the class of an object ..." />
+            <marker date="1452216986000" expanded="true" signature="8112:8314" placeholder=" the &quot;Late Static Binding&quot; class name ..." />
+            <marker date="1452216986000" expanded="true" signature="8353:8868" placeholder=" Retrieves the parent class name for object or class ..." />
+            <marker date="1452216986000" expanded="true" signature="8921:9316" placeholder=" Checks if the class method exists ..." />
+            <marker date="1452216986000" expanded="true" signature="9373:9763" placeholder=" Checks if the object or class has a property ..." />
+            <marker date="1452216986000" expanded="true" signature="9818:10153" placeholder=" Checks if the trait exists ..." />
+            <marker date="1452216986000" expanded="true" signature="10209:10633" placeholder=" Checks if the class has been defined ..." />
+            <marker date="1452216986000" expanded="true" signature="10697:11100" placeholder=" Checks if the interface has been defined ..." />
+            <marker date="1452216986000" expanded="true" signature="11172:11604" placeholder=" Return true if the given function has been defined ..." />
+            <marker date="1452216986000" expanded="true" signature="11656:12011" placeholder=" Creates an alias for a class ..." />
+            <marker date="1452216986000" expanded="true" signature="12080:12584" placeholder=" Returns an array with the names of included or required files ..." />
+            <marker date="1452216986000" expanded="true" signature="12625:12779" placeholder=" Alias of &lt;b&gt;get_included_files&lt;/b&gt; ..." />
+            <marker date="1452216986000" expanded="true" signature="12820:13469" placeholder=" Checks if the object has this class as one of its parents ..." />
+            <marker date="1452216986000" expanded="true" signature="13548:14192" placeholder=" Checks if the object is of this class or has this class as one of its parents ..." />
+            <marker date="1452216986000" expanded="true" signature="14262:14651" placeholder=" Get the default properties of the class ..." />
+            <marker date="1452216986000" expanded="true" signature="14699:15118" placeholder=" Gets the properties of the given object ..." />
+            <marker date="1452216986000" expanded="true" signature="15163:15508" placeholder=" Gets the class methods' names ..." />
+            <marker date="1452216986000" expanded="true" signature="15559:16197" placeholder=" Generates a user-level error/warning/notice message ..." />
+            <marker date="1452216986000" expanded="true" signature="16272:16445" placeholder=" Alias of &lt;b&gt;trigger_error&lt;/b&gt; ..." />
+            <marker date="1452216986000" expanded="true" signature="16499:18100" placeholder=" Sets a user-defined error handler function ..." />
+            <marker date="1452216986000" expanded="true" signature="18187:18387" placeholder=" Restores the previous error handler function ..." />
+            <marker date="1452216986000" expanded="true" signature="18431:19034" placeholder=" Sets a user-defined exception handler function ..." />
+            <marker date="1452216986000" expanded="true" signature="19096:19298" placeholder=" Restores the previously defined exception handler function ..." />
+            <marker date="1452216986000" expanded="true" signature="19346:19908" placeholder=" Returns an array with the name of the defined classes ..." />
+            <marker date="1452216986000" expanded="true" signature="19951:20177" placeholder=" Returns an array of all declared interfaces ..." />
+            <marker date="1452216986000" expanded="true" signature="20223:20473" placeholder=" Returns an array of all declared traits ..." />
+            <marker date="1452216986000" expanded="true" signature="20514:20932" placeholder=" Returns an array of all defined functions ..." />
+            <marker date="1452216986000" expanded="true" signature="20976:21183" placeholder=" Returns an array of all defined variables ..." />
+            <marker date="1452216986000" expanded="true" signature="21222:21556" placeholder=" Create an anonymous (lambda-style) function ..." />
+            <marker date="1452216986000" expanded="true" signature="21606:22138" placeholder=" Returns the resource type ..." />
+            <marker date="1452216986000" expanded="true" signature="22185:22607" placeholder=" Returns an array with the names of all modules compiled and loaded ..." />
+            <marker date="1452216986000" expanded="true" signature="22675:23351" placeholder=" Find out whether an extension is loaded ..." />
+            <marker date="1452216986000" expanded="true" signature="23395:23784" placeholder=" Returns an array with the names of the functions of a module ..." />
+            <marker date="1452216986000" expanded="true" signature="23838:25068" placeholder=" Returns an associative array with the names of all the constants and their values ..." />
+            <marker date="1452216986000" expanded="true" signature="25131:27506" placeholder=" Generates a backtrace ..." />
+            <marker date="1452216986000" expanded="true" signature="27597:27708" placeholder=" Clear the most recent error ..." />
+            <marker date="1452216986000" expanded="true" signature="27828:28516" placeholder=" Prints a backtrace ..." />
+            <marker date="1452216986000" expanded="true" signature="28584:28762" placeholder=" Forces collection of any existing garbage cycles ..." />
+            <marker date="1452216986000" expanded="true" signature="28802:29007" placeholder=" Returns status of the circular reference collector ..." />
+            <marker date="1452216986000" expanded="true" signature="29040:29178" placeholder=" Activates the circular reference collector ..." />
+            <marker date="1452216986000" expanded="true" signature="29210:29351" placeholder=" Deactivates the circular reference collector ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eBot/Events/Event/RoundStart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1455933439000" expanded="true" signature="94:164" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eBot/Events/Event.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.078206465">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <marker date="1455933439000" expanded="false" signature="9:251" placeholder=" eBot - A bot for match management for CS:GO ..." />
+            <marker date="1455933439000" expanded="true" signature="301:1085" placeholder="..." />
+            <marker date="1455933439000" expanded="true" signature="348:377" placeholder="..." />
+            <marker date="1455933439000" expanded="true" signature="417:444" placeholder="..." />
+            <marker date="1455933439000" expanded="true" signature="451:480" placeholder=" magical __call method ..." />
+            <marker date="1455933439000" expanded="true" signature="527:879" placeholder="..." />
+            <marker date="1455933439000" expanded="true" signature="592:694" placeholder="..." />
+            <marker date="1455933439000" expanded="true" signature="762:849" placeholder="..." />
+            <marker date="1455933439000" expanded="true" signature="857:876" placeholder="..." />
+            <marker date="1455933439000" expanded="true" signature="924:1082" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eBot/Events/EventDispatcher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25026068">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding>
+            <marker date="1455933439000" expanded="false" signature="10:252" placeholder=" eBot - A bot for match management for CS:GO ..." />
+            <marker date="1455933439000" expanded="false" signature="284:380" placeholder="..." />
+            <marker date="1455933439000" expanded="true" signature="423:2438" placeholder="..." />
+            <marker date="1455933439000" expanded="true" signature="845:1600" placeholder="..." />
+            <marker date="1455933439000" expanded="true" signature="1210:1593" placeholder="..." />
+            <marker date="1455933439000" expanded="true" signature="1659:1926" placeholder="..." />
+            <marker date="1455933439000" expanded="true" signature="1706:1797" placeholder="..." />
+            <marker date="1455933439000" expanded="true" signature="1978:2435" placeholder="..." />
+            <marker date="1455933439000" expanded="true" signature="2095:2429" placeholder="..." />
+            <marker date="1455933439000" expanded="true" signature="2166:2419" placeholder="..." />
+            <marker date="1455933439000" expanded="true" signature="2188:2251" placeholder="..." />
+            <marker date="1455933439000" expanded="true" signature="2277:2405" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eBot/Events/Event/RoundScored.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2346194">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <marker date="1455933439000" expanded="false" signature="10:252" placeholder=" eBot - A bot for match management for CS:GO ..." />
+            <marker date="1455933439000" expanded="true" signature="343:481" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eBot/Plugins/Custom/PluginMatchScoreNotifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4197349">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+          <folding>
+            <element signature="e#7#254#0#PHP" expanded="true" />
+            <element signature="e#288#312#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
